@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../CSS/style.css">
+	<title>红尘</title>
+</head>
+<!--  -->
+<body>
+    <div class="nav-main">	       	
+		<div class="nav-nums"><a href="">九州编年纪</a>
+				<div class="nav-vr">
+					 <a href=""><li>九州风云</li></a>
+					 <a href=""><li>九州列传</li></a>
+					 <a href=""><li>奇闻轶事</li></a>
+				</div>
+		</div>	
+		<div class="nav-nums"><a href="">诸子百家</a>
+				<div class="nav-vr">
+					 <a href=""><li>纵横</li></a>
+					 <a href=""><li>墨家</li></a>
+					 <a href=""><li>阴阳</li></a>
+				</div>
+		</div>	
+		<div class="nav-nums"><a href="">三教九流</a>
+				<div class="nav-vr">
+					 <a href=""><li></li></a>
+					 <a href=""><li></li></a>
+					 <a href=""><li></li></a>
+					 <a href=""><li></li></a>
+				</div>
+		</div>			
+    </div>
+</body>
+</html>
